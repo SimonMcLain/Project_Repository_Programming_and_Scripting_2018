@@ -13,7 +13,7 @@ from sklearn import datasets
 from sklearn.decomposition import PCA
 import csv
 
-with open("data/iris.csv") as iris:
+with open("iris.csv") as iris:
 
 # import some data to play with
   iris = datasets.load_iris()
