@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=PlrEJfvZRNo
 https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
 https://uk.mathworks.com/help/stats/sample-data-sets.html;jsessionid=1ed9d85bab3a1121160e7427a0a8?requestedDomain=true
 https://uk.mathworks.com/matlabcentral/fileexchange/32664-iris-data-set-clustering
+http://www.pymvpa.org/tutorial_datasets.html
+
