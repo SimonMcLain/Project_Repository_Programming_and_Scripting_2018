@@ -1,9 +1,8 @@
 # Project_Repository_Programming_and_Scripting_2018
-## My repository for the 2018 Programming and Scripting Project. A module in the GMIT Data Analytics H. Dip. 
+## This README file contains my research and investigations into the Fisher's Iris data set. Here I explain the research carried out and provide references to the source material. 
+
 
 Created 2018-03-26
-
-This README file contains my research and investigations into the Fisher's Iris data set. Here I explain the research carried out and provide references to the source material. 
 
 
 Table of Contents
@@ -70,14 +69,21 @@ During this phase I check that the key deliverables meet the requirements laid o
 5. References:
 
 Introduction to Fisher, his Iris dataset, Python and Data Analytics
+
 https://en.wikipedia.org/wiki/Iris_flower_data_set
+
 https://study.com/academy/lesson/sir-ronald-fisher-biography-contributions-to-statistics.html
+
 https://www.britannica.com/biography/Ronald-Aylmer-Fisher
+
 Mark Lutz, Learning Python, 2013 O'Reilly
 
 http://pythonhosted.org/bob.db.iris/py_api.html
+
 https://www.youtube.com/watch?v=PlrEJfvZRNo
+
 https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
+
 https://uk.mathworks.com/help/stats/sample-data-sets.html;jsessionid=1ed9d85bab3a1121160e7427a0a8?requestedDomain=true
 https://uk.mathworks.com/matlabcentral/fileexchange/32664-iris-data-set-clustering
 http://www.pymvpa.org/tutorial_datasets.html
