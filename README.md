@@ -40,6 +40,7 @@ It's nice to imagine the "Knights that say Ni!" planting Fisher's Iris's in thei
 
 My approach to the management of this project is based on the Project Management Insititute methodologies and as such I have broken the project in to 5 phases:
 
+
 a) Initiating
 b) Planning
 c) Executing
@@ -85,7 +86,10 @@ http://pythonhosted.org/bob.db.iris/py_api.html
 
 https://www.youtube.com/watch?v=PlrEJfvZRNo
 
+Python Scripts
 https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
+
+
 
 https://uk.mathworks.com/help/stats/sample-data-sets.html;jsessionid=1ed9d85bab3a1121160e7427a0a8?requestedDomain=true
 https://uk.mathworks.com/matlabcentral/fileexchange/32664-iris-data-set-clustering
