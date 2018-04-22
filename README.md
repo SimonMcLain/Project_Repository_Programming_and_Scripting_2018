@@ -9,7 +9,7 @@ Table of Contents
 ####
 1. Introduction to Fisher, his Iris dataset, Data Analytics & Python
 2. Summary of findings
-3. Project management
+3. Project management & project plan
 4. Instructions for running the script
 5. References
 
@@ -23,7 +23,8 @@ Among Fisher's work is the Iris dataset, that consists of 50 samples from each o
 
 This feature has resulted in the Iris data becoming extremely popular with students of Data Analytics when learning. Data Analytics is the science of using computers and computer programming to transform information into knowledge, and potentially into action. For instance, if significant numbers of people in California start viewing a particular widget on Amazon, Amazon's computer programs will automatically ship said widgets to a local warehouse, in readiness for orders being placed, not when orders are placed, before, without human intervention at any stage. See d) below. 
 
-Broadly speaking there are four stage of development within Data Analytics, below in order of increasing degree of automation and business value:
+
+Broadly speaking there are four stages of development within Data Analytics, below in order of increasing degree of automation and business value:
  a) Descriptive Analytics: 'this' just happened
  b) Predictive Analytics: 'this' might happend
  c) Prescriptive Analytics: based on the data you should do 'this'
@@ -50,14 +51,16 @@ It should be noted that these phases are not intended to be sequential, rather t
 Intiating Phase
 During this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I also used this as an opportunity to perform some investigative research. Using Google and Microsoft Edge I identified materials which could be used during the project, downloading Python scripts and recording website addresses. Uploading them to this repository. 
 
+During the initiating phase I decided to attempt to write Python scripts that would calculate the maximum, median, mean for each of the columns in the Iris dataset. I also decided to use this as a learning opportunity to develop and understanding of Matplotlib for graphical representation of the Iris dataset. These decisions helped me to narrow the focus of the online resources and other materials I would be using during the project. 
+
 Planning Phase
-Throughout this phase I identified times when I would be able to work on the project, given work, family and other committments. I travel internationaly almost evey week, have two children, 5 & 8 and the project co-incides with 5 weeks of home refurbishment work. Fun! Therefore it has been vital for me to identify slots of time to dedicate to to the project in well advance. 
+Throughout this phase I identified times when I would be able to work on the project, given work, family and other committments. I travel internationaly almost evey week, have two children, 5 & 8 and the project co-incides with 5 weeks of home refurbishment work. I identified times when I would not be able to work on the project due to other committments. April 4th - 6th, 8th - 14th and 22nd to 24th.
 
 Executing Phase
 During this phase I actively worked on the key deliverables which I summarise as follows:
 a) A comprehensive README file
 b) Evidence of thorough research into the Iris dataset and examples of interesting analyses that other have pursued
-c) Python Scripts to investigate the Iris dataset and demonstrate my own work
+c) Python Scripts to investigate the Iris dataset, including annotation that demonstrates an understanding of the material and demonstrates my own work
 d) Comprehesive references of sources the that have contributed to this project
 
 Closing
