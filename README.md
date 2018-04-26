@@ -42,7 +42,7 @@ My approach to the management of this project is based on the Project Management
 
 
 a) Initiating
-b) Planning
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdfb) Planning
 c) Executing
 d) Steering
 e) Closing
@@ -88,6 +88,8 @@ https://www.youtube.com/watch?v=PlrEJfvZRNo
 
 Python Scripts
 https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
+numpy cheat sheet
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
 
 
 
