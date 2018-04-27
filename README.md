@@ -50,7 +50,7 @@ e) Closing
 It should be noted that these phases are not intended to be sequential, rather they overlap at times. Initiating occurs for a relatively short period of time, planning occurs throughout the life of the project, executing occurs as soon as the project deliverables are understoo, steering begins shortly after planning and executing have begun and closing should be considered as verifying the project deliverables have been met and ends at mid-night on April 29th. 
 
 Intiating Phase
-During this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I also used this as an opportunity to perform some investigative research. Using Google and Microsoft Edge I identified materials which could be used during the project, downloading Python scripts and recording website addresses. Uploading them to this repository. 
+sDuring this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I also used this as an opportunity to perform some investigative research. Using Google and Microsoft Edge I identified materials which could be used during the project, downloading Python scripts and recording website addresses. Uploading them to this repository. 
 
 During the initiating phase I decided to attempt to write Python scripts that would calculate the maximum, median, mean for each of the columns in the Iris dataset. I also decided to use this as a learning opportunity to develop and understanding of Matplotlib for graphical representation of the Iris dataset. These decisions helped me to narrow the focus of the online resources and other materials I would be using during the project. 
 
@@ -91,6 +91,17 @@ https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-29
 numpy cheat sheet
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
 
+pandas cheat sheets
+https://www.dataquest.io/blog/pandas-cheat-sheet/
+file:///C:/Users/simon/Downloads/Pandas_Cheat_Sheet.pdf
+
+scipy cheat sheets
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf
+
+matlpltlib usermanual/ cheatsheet
+https://matplotlib.org/Matplotlib.pdf
+https://api.ning.com/files/ix5EiwUaTp0E5*jp7eiswyccuIvY2ZsTZtw4N00CRgaI9Y5fMQEYTahMiecJ8nwooZZHezoGsTkJ-duNPnb39c9Qmgg9hX4L/dc1.png
+https://storage.googleapis.com/supplemental_media/udacityu/5428018709/numpy_pandas_cheatsheet.pdf
 
 
 https://uk.mathworks.com/help/stats/sample-data-sets.html;jsessionid=1ed9d85bab3a1121160e7427a0a8?requestedDomain=true
