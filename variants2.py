@@ -3,41 +3,42 @@
 # https://github.com/ritvikraj14/IrisData/blob/master/iris.py provided advanced code that I have studied and amended
 
 
-# scipy
+# Import scipy and assign a short name
+import scipy as sci
 
-import scipy
+# Import numpy and assign a short name
+import numpy as np 
 
-# numpy
+# Import pandas and assign a short name
+import pandas as pd
 
-import numpy
-
-#panda
-import pandas
-
-#matplot
+# Imprt matplotlib and assign a short name
 import matplotlib.pyplot as plt 
 
-
-# Load dataset 
-
+# create header labels for each column of data
 names = ['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 'class']
 
-dataset = pandas.read_csv("iris.csv", names=names)
+# load the file into an array as iris with the header labels
+iris = pd.read_csv("iris.csv", names=names)
 
 
-# shape
+""" .shape returns basic information about the find, according to the names assigned above. 150 intergers (the measurements)
+ and 5 classes"""
+print(iris.shape)
 
-print(dataset.shape)
+# .describe returns Stats about each column of data 
 
-# head
+print(iris.describe())
 
-print(dataset.head(10))
+# returns the number of measurements for each class
 
-# descriptions
+print(iris.groupby('class').size())
 
-print(dataset.describe())
+# returns a histogram
+iris.hist()
 
-# class distribution
+plt.show()
 
-print(dataset.groupby('class').size())
-
+# returns a box plot
+iris.plot(kind='box', subplots=True, layout=(2,2), sharex=False, sharey=False)
+plt.show()
