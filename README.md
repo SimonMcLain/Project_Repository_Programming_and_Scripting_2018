@@ -36,13 +36,16 @@ It's nice to imagine the "Knights that say Ni!" planting Fisher's Iris's in thei
 
 2. Summary of findings
 
+
+
+
 3. Project management
 
 My approach to the management of this project is based on the Project Management Insititute methodologies and as such I have broken the project in to 5 phases:
 
 
 a) Initiating
-https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdfb) Planning
+b) Planning
 c) Executing
 d) Steering
 e) Closing
@@ -50,29 +53,33 @@ e) Closing
 It should be noted that these phases are not intended to be sequential, rather they overlap at times. Initiating occurs for a relatively short period of time, planning occurs throughout the life of the project, executing occurs as soon as the project deliverables are understoo, steering begins shortly after planning and executing have begun and closing should be considered as verifying the project deliverables have been met and ends at mid-night on April 29th. 
 
 Intiating Phase
-sDuring this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I also used this as an opportunity to perform some investigative research. Using Google and Microsoft Edge I identified materials which could be used during the project, downloading Python scripts and recording website addresses. Uploading them to this repository. 
+During this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I identified times when I would be able to work on the project, given work, family and other committments. I travel internationaly almost evey week, have two children, 5 & 8 and the project co-incides with 5 weeks of home refurbishment work. I identified times when I would not be able to work on the project due to other committments.
 
-During the initiating phase I decided to attempt to write Python scripts that would calculate the maximum, median, mean for each of the columns in the Iris dataset. I also decided to use this as a learning opportunity to develop and understanding of Matplotlib for graphical representation of the Iris dataset. These decisions helped me to narrow the focus of the online resources and other materials I would be using during the project. 
+I also used this as an opportunity to perform some investigative research. 
 
 Planning Phase
-Throughout this phase I identified times when I would be able to work on the project, given work, family and other committments. I travel internationaly almost evey week, have two children, 5 & 8 and the project co-incides with 5 weeks of home refurbishment work. I identified times when I would not be able to work on the project due to other committments. April 4th - 6th, 8th - 14th and 22nd to 24th.
+Using Google and Microsoft Edge I identified materials which could be used during the project, downloading Python scripts and recording website addresses. Then uploading them to this repository. I also researched and creates some simple Python scripts that would calculate the average, median and standard deviation  for each of the columns in the Iris dataset. 
+
+I also decided to use this as a learning opportunity to develop and understanding of Matplotlib for graphical representation of the Iris dataset, as well develop a basic understanding of numpy, scipy, pandas and seaborn. These decisions helped me to narrow the focus of the online resources and other materials I would be using during the project. 
+
+Towards the end of the planning phase I decided I wanted to find code that would create a statistical summary of the Iris dataset and create some charts. I decided that a key component of the project would be a decription of what I learned about the Iris dataset from the output of the code. 
 
 Executing Phase
 During this phase I actively worked on the key deliverables which I summarise as follows:
 a) A comprehensive README file
 b) Evidence of thorough research into the Iris dataset and examples of interesting analyses that other have pursued
-c) Python Scripts to investigate the Iris dataset, including annotation that demonstrates an understanding of the material and demonstrates my own work
+c) Writing Python scripts to investigate the Iris dataset, including annotation that demonstrates an understanding of the material and demonstrates my own work
 d) Comprehesive references of sources the that have contributed to this project
 
 Closing
-During this phase I check that the key deliverables meet the requirements laid out in points a - d above. Rechecked the Python scripts run as intended, check references used, as well as spelling and grammer with the README. file. 
+During this phase I consoldated the files that I had created, checked that the key deliverables meet the requirements laid out in points a - d above. Rechecked the Python scripts run as intended, check references used, as well as spelling and grammer with the README. file. 
 
 
 4. Instruction how to run the Python scripts
 
 5. References:
 
-Introduction to Fisher, his Iris dataset, Python and Data Analytics
+Below is a list of references used during my project. Where the code created relied heavily upon work created by others I have added it to the Python Scripts. 
 
 https://en.wikipedia.org/wiki/Iris_flower_data_set
 
