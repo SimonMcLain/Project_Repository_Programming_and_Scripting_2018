@@ -3,6 +3,9 @@
 # https://github.com/ritvikraj14/IrisData/blob/master/iris.py provided advanced code that I have studied and amended
 
 
+# Import seaborn 
+import seaborn as sns 
+
 # Import scipy and assign a short name
 import scipy as sci
 
@@ -35,10 +38,30 @@ print(iris.describe())
 print(iris.groupby('class').size())
 
 # returns a histogram
-iris.hist()
+iris.plot.hist()
 
 plt.show()
 
 # returns a box plot
 iris.plot(kind='box', subplots=True, layout=(2,2), sharex=False, sharey=False)
 plt.show()
+
+# returns a scatter plot
+iris.plot.scatter(x = 'sepal_length', y = 'sepal_width')
+plt.show()
+
+iris = sns.load_dataset("iris")
+
+ratio = iris["sepal_length"]/iris["sepal_width"]
+
+for name, group in iris.groupby("species"):
+    plt.scatter(group.index, ratio[group.index], label=name)
+
+plt.legend()
+plt.show()
+
+
+
+
+
+
