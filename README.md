@@ -13,7 +13,7 @@ Table of Contents
 4. Instructions for running the script
 5. References
 
-
+####
 1. Introduction to Fisher, his Iris dataset, Data Analytics and Python 
 
 Sir Ronald Fisher (1890-1962) is often referred to as the father of modern statistics and experimental design due to the major contributions he made to these fields. Fisher introduced the concept of variance (ANOVA), a measure of how data distributes around a mean or expected value, as well as inventing tools for modern experimental design. Fisher literally wrote the book on it: "Statistical Methods for Research Workers", rather he wrote several books on it. His work at Rothame Experimental Station in agricultural research gave him access to agricultural data enabling him to develop new theories on experiments. It's quite fortunate he applied his brilliant mind to statistics in agriculture given his other interest: eugenics, considered a respectable scientific topic in his time. 
