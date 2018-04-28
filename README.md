@@ -32,7 +32,7 @@ Broadly speaking there are four stages of development within Data Analytics, bel
 
 Python is a 'high-level' 4th generation computer language. Simply put it is easier to learn than other programming languages since the code used is broadly similar to writing making it easier to read and understand. 
 
-It's nice to imagine the "Knights that say Ni!" planting Fisher's Iris's in their scubbery. 
+The name Python was inspired by the British surreal comedy group 'Monty Python' and it's nice to imagine the "Knights that say Ni!" planting Fisher's Iris's in their scubbery. 
 
 2. Summary of findings
 
@@ -72,7 +72,7 @@ c) Writing Python scripts to investigate the Iris dataset, including annotation 
 d) Comprehesive references of sources the that have contributed to this project
 
 Closing
-During this phase I consoldated the files that I had created, checked that the key deliverables meet the requirements laid out in points a - d above. Rechecked the Python scripts run as intended, check references used, as well as spelling and grammer with the README. file. 
+During this phase I consoldated the files that I had created, checked that the key deliverables meet the requirements laid out in points a - d above. Rechecked the Python scripts run as intended, check references used, finalise the README fiole and tidy-up the project repository, file names etc. 
 
 
 4. Instruction how to run the Python scripts
