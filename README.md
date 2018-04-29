@@ -9,7 +9,7 @@ Table of Contents
 1. Introduction to Fisher, his Iris dataset, Data Analytics & Python
 2. Summary of investigations
 3. Project management & project plan
-4. Instructions for running the script
+4. How to run the script
 5. References
 
 ####
@@ -73,6 +73,7 @@ e) Closing
 
 It should be noted that these phases are not intended to be sequential, rather they overlap at times. Initiating occurs for a relatively short period of time, planning occurs throughout the life of the project, executing occurs as soon as the project deliverables are understoo, steering begins shortly after planning and executing have begun and closing should be considered as verifying the project deliverables have been met and ends at mid-night on April 29th. 
 
+
 Intiating Phase
 During this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I identified times when I would be able to work on the project, given work, family and other committments. I travel internationaly almost evey week, have two children, 5 & 8 and the project co-incides with 5 weeks of home refurbishment work. I identified times when I would not be able to work on the project due to other committments.
 
@@ -96,7 +97,16 @@ Closing
 During this phase I consoldated the files that I had created, checked that the key deliverables meet the requirements laid out in points a - d above. Rechecked the Python scripts run as intended, check references used, finalise the README fiole and tidy-up the project repository, file names etc. 
 
 
-4. Instruction how to run the Python scripts
+4. How to run the script
+
+a) Download and install Anaconda https://www.anaconda.com/download/
+
+b) I recommend using visual studio to run the files https://www.visualstudio.com/downloads/
+
+c) To run the file open it in visual studio terminal, type Python then the full file name, and don't forget to include the .py file extension. You may also copy the tasks.json file to create the shortcut Ctrl Shift b to automatically run the active file in the Visual Studio Terminal.
+
+d) When the script in run a summary of the data will be displayed in the integrated terminal. Picture files will also be created for the four charts, these can be saved to your hard drive. 
+
 
 5. References:
 
@@ -116,22 +126,24 @@ https://www.youtube.com/watch?v=PlrEJfvZRNo
 
 Python Scripts
 https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
-numpy cheat sheet
+
+Numpy cheat sheet
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf
 
-pandas cheat sheets
+Pandas cheat sheets
 https://www.dataquest.io/blog/pandas-cheat-sheet/
+
 file:///C:/Users/simon/Downloads/Pandas_Cheat_Sheet.pdf
 
-scipy cheat sheets
+Scipy cheat sheets
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf
 
-matlpltlib usermanual/ cheatsheet
+Matlpltlib usermanual/ cheatsheet
 https://matplotlib.org/Matplotlib.pdf
 https://api.ning.com/files/ix5EiwUaTp0E5*jp7eiswyccuIvY2ZsTZtw4N00CRgaI9Y5fMQEYTahMiecJ8nwooZZHezoGsTkJ-duNPnb39c9Qmgg9hX4L/dc1.png
 https://storage.googleapis.com/supplemental_media/udacityu/5428018709/numpy_pandas_cheatsheet.pdf
 
-
+Other references
 https://uk.mathworks.com/help/stats/sample-data-sets.html;jsessionid=1ed9d85bab3a1121160e7427a0a8?requestedDomain=true
 https://uk.mathworks.com/matlabcentral/fileexchange/32664-iris-data-set-clustering
 http://www.pymvpa.org/tutorial_datasets.html
