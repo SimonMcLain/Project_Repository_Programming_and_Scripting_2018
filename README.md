@@ -13,7 +13,7 @@ Table of Contents
 4. Instructions for running the script
 5. References
 
-
+####
 1. Introduction to Fisher, his Iris dataset, Data Analytics and Python 
 
 Sir Ronald Fisher (1890-1962) is often referred to as the father of modern statistics and experimental design due to the major contributions he made to these fields. Fisher introduced the concept of variance (ANOVA), a measure of how data distributes around a mean or expected value, as well as inventing tools for modern experimental design. Fisher literally wrote the book on it: "Statistical Methods for Research Workers", rather he wrote several books on it. His work at Rothame Experimental Station in agricultural research gave him access to agricultural data enabling him to develop new theories on experiments. It's quite fortunate he applied his brilliant mind to statistics in agriculture given his other interest: eugenics, considered a respectable scientific topic in his time. 
@@ -32,9 +32,12 @@ Broadly speaking there are four stages of development within Data Analytics, bel
 
 Python is a 'high-level' 4th generation computer language. Simply put it is easier to learn than other programming languages since the code used is broadly similar to writing making it easier to read and understand. 
 
-It's nice to imagine the "Knights that say Ni!" planting Fisher's Iris's in their scubbery. 
+The name Python was inspired by the British surreal comedy group 'Monty Python' and it's nice to imagine the "Knights that say Ni!" planting Fisher's Iris's in their scubbery. 
 
 2. Summary of findings
+
+
+
 
 3. Project management
 
@@ -42,7 +45,7 @@ My approach to the management of this project is based on the Project Management
 
 
 a) Initiating
-https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdfb) Planning
+b) Planning
 c) Executing
 d) Steering
 e) Closing
@@ -50,29 +53,33 @@ e) Closing
 It should be noted that these phases are not intended to be sequential, rather they overlap at times. Initiating occurs for a relatively short period of time, planning occurs throughout the life of the project, executing occurs as soon as the project deliverables are understoo, steering begins shortly after planning and executing have begun and closing should be considered as verifying the project deliverables have been met and ends at mid-night on April 29th. 
 
 Intiating Phase
-sDuring this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I also used this as an opportunity to perform some investigative research. Using Google and Microsoft Edge I identified materials which could be used during the project, downloading Python scripts and recording website addresses. Uploading them to this repository. 
+During this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I identified times when I would be able to work on the project, given work, family and other committments. I travel internationaly almost evey week, have two children, 5 & 8 and the project co-incides with 5 weeks of home refurbishment work. I identified times when I would not be able to work on the project due to other committments.
 
-During the initiating phase I decided to attempt to write Python scripts that would calculate the maximum, median, mean for each of the columns in the Iris dataset. I also decided to use this as a learning opportunity to develop and understanding of Matplotlib for graphical representation of the Iris dataset. These decisions helped me to narrow the focus of the online resources and other materials I would be using during the project. 
+I also used this as an opportunity to perform some investigative research. 
 
 Planning Phase
-Throughout this phase I identified times when I would be able to work on the project, given work, family and other committments. I travel internationaly almost evey week, have two children, 5 & 8 and the project co-incides with 5 weeks of home refurbishment work. I identified times when I would not be able to work on the project due to other committments. April 4th - 6th, 8th - 14th and 22nd to 24th.
+Using Google and Microsoft Edge I identified materials which could be used during the project, downloading Python scripts and recording website addresses. Then uploading them to this repository. I also researched and creates some simple Python scripts that would calculate the average, median and standard deviation  for each of the columns in the Iris dataset. 
+
+I also decided to use this as a learning opportunity to develop and understanding of Matplotlib for graphical representation of the Iris dataset, as well develop a basic understanding of numpy, scipy, pandas and seaborn. These decisions helped me to narrow the focus of the online resources and other materials I would be using during the project. 
+
+Towards the end of the planning phase I decided I wanted to find code that would create a statistical summary of the Iris dataset and create some charts. I decided that a key component of the project would be a decription of what I learned about the Iris dataset from the output of the code. 
 
 Executing Phase
 During this phase I actively worked on the key deliverables which I summarise as follows:
 a) A comprehensive README file
 b) Evidence of thorough research into the Iris dataset and examples of interesting analyses that other have pursued
-c) Python Scripts to investigate the Iris dataset, including annotation that demonstrates an understanding of the material and demonstrates my own work
+c) Writing Python scripts to investigate the Iris dataset, including annotation that demonstrates an understanding of the material and demonstrates my own work
 d) Comprehesive references of sources the that have contributed to this project
 
 Closing
-During this phase I check that the key deliverables meet the requirements laid out in points a - d above. Rechecked the Python scripts run as intended, check references used, as well as spelling and grammer with the README. file. 
+During this phase I consoldated the files that I had created, checked that the key deliverables meet the requirements laid out in points a - d above. Rechecked the Python scripts run as intended, check references used, finalise the README fiole and tidy-up the project repository, file names etc. 
 
 
 4. Instruction how to run the Python scripts
 
 5. References:
 
-Introduction to Fisher, his Iris dataset, Python and Data Analytics
+Below is a list of references used during my project. Where the code created relied heavily upon work created by others I have added it to the Python Scripts. 
 
 https://en.wikipedia.org/wiki/Iris_flower_data_set
 
