@@ -42,7 +42,7 @@ Although simple mathematical operations can be written directly in Python I lear
 
 I discovered three useful commands for describing data in a csv file which is useful for obtaining a general overview of the content of a such file. Especially useful for large files when the extent of the content is not known. 
 
-The .shape command describes the array, 150 datapoints distributed across five features; Sepal + Petal lengths and widths as wells as type of Iris. 
+dThe .shape command describes the array, 150 datapoints distributed across five features; Sepal + Petal lengths and widths as wells as type of Iris. 
 
 The .describe command performs a basic statistical analysis of mean, standard deviation, min/ max and distribution. 
 
@@ -71,13 +71,13 @@ c) Executing
 d) Steering
 e) Closing
 
-It should be noted that these phases are not intended to be sequential, rather they overlap at times. Initiating occurs for a relatively short period of time, planning occurs throughout the life of the project, executing occurs as soon as the project deliverables are understoo, steering begins shortly after planning and executing have begun and closing should be considered as verifying the project deliverables have been met and ends at mid-night on April 29th. 
+It should be noted that these phases are not intended to be sequential, rather they overlap at times. Initiating occurs for a relatively short period of time, planning occurs throughout the life of the project, executing occurs as soon as the project deliverables are understood, steering begins shortly after planning and executing have begun and closing should be considered as verifying the project deliverables have been met and ends at mid-night on April 29th. 
 
 
 Intiating Phase
-During this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I identified times when I would be able to work on the project, given work, family and other committments. I travel internationaly almost evey week, have two children, 5 & 8 and the project co-incides with 5 weeks of home refurbishment work. I identified times when I would not be able to work on the project due to other committments.
+During this phase I reviewed the project orientation video and supporting documentation to identify the deliverables required to obtain a passing grade. I identified times when I would be able to work on the project, given work, family and other committments. 
 
-I also used this as an opportunity to perform some investigative research. 
+I also used this as an opportunity to perform some investigative research, identifying potential sources of information. 
 
 Planning Phase
 Using Google and Microsoft Edge I identified materials which could be used during the project, downloading Python scripts and recording website addresses. Then uploading them to this repository. I also researched and creates some simple Python scripts that would calculate the average, median and standard deviation  for each of the columns in the Iris dataset. 
