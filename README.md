@@ -1,14 +1,12 @@
-# Project_Repository_Programming_and_Scripting_2018
-## This README file contains my research and investigations into the Fisher's Iris data set. Here I explain the research carried out and provide references to the source material. 
+# GMIT Progamming and Scripting project submission by Simon McLain. April 29, 2018. 
+## This project entails researching the Fisher's Iris dataset, then writing documentation and code in the Python programming language based on the research. 
 
-
-Created 2018-03-26
 
 
 Table of Contents
 ####
 1. Introduction to Fisher, his Iris dataset, Data Analytics & Python
-2. Summary of findings
+2. Summary of investigations
 3. Project management & project plan
 4. Instructions for running the script
 5. References
@@ -16,25 +14,32 @@ Table of Contents
 ####
 1. Introduction to Fisher, his Iris dataset, Data Analytics and Python 
 
-Sir Ronald Fisher (1890-1962) is often referred to as the father of modern statistics and experimental design due to the major contributions he made to these fields. Fisher introduced the concept of variance (ANOVA), a measure of how data distributes around a mean or expected value, as well as inventing tools for modern experimental design. Fisher literally wrote the book on it: "Statistical Methods for Research Workers", rather he wrote several books on it. His work at Rothame Experimental Station in agricultural research gave him access to agricultural data enabling him to develop new theories on experiments. It's quite fortunate he applied his brilliant mind to statistics in agriculture given his other interest: eugenics, considered a respectable scientific topic in his time. 
+Sir Ronald Fisher (1890-1962) is often referred to as the father of modern statistics and experimental design due to the major contributions he made to these fields. Fisher introduced the concept of variance (ANOVA), a measure of how data distributes around a mean or expected value, as well as inventing tools for modern experimental design. Fisher literally wrote the book on it: "Statistical Methods for Research Workers", rather he wrote several books on it. His work at Rothame Experimental Station in agricultural research gave him access to agricultural data that he used to develop new theories on experiments. It's quite fortunate he applied his brilliant mind to statistics in agriculture given his other interest: eugenics, considered a respectable scientific topic in his time. 
 
-Among Fisher's work is the Iris dataset, that consists of 50 samples from each of three species of Iris, Iris setosa, Iris virginica and Iris versicolour. Four measurements where taken from each sample. The length and breadth of petals and sepals. Statistically speaking this dataset is interesting, as it is mathmatically possible to differentiate 3 visualy similar 
-(almost identical) flowers when an appropriate statistical approach be applied.
+Among Fisher's work is the Iris dataset, it consists of 150 samples, 50 each of three species of Iris, Iris setosa, Iris virginica and Iris versicolour. Four measurements where taken from each sample. The length and breadth of both petals and sepals. Statistically speaking this dataset is interesting, as it is mathmatically possible to differentiate 3 visually similar 
+(almost identical) flowers when an appropriate statistical approach is applied.
 
-This feature has resulted in the Iris data becoming extremely popular with students of Data Analytics when learning. Data Analytics is the science of using computers and computer programming to transform information into knowledge, and potentially into action. For instance, if significant numbers of people in California start viewing a particular widget on Amazon, Amazon's computer programs will automatically ship said widgets to a local warehouse, in readiness for orders being placed, not when orders are placed, before, without human intervention at any stage. See d) below. 
-
+This feature has resulted in the Iris data becoming extremely popular with students of Data Analytics when learning. Data Analytics is the science of using computers and computer programming to transform information into knowledge, and potentially to automate a response. For instance, if significant numbers of people in California start viewing a particular widget on Amazon, Amazon's data analytics programs will identify the trend then automatically ship said widgets to a local warehouse, in readiness for orders being placed, not when orders are placed, before, without human intervention at any stage. See d) below. 
 
 Broadly speaking there are four stages of development within Data Analytics, below in order of increasing degree of automation and business value:
+ 
  a) Descriptive Analytics: 'this' just happened
+ 
  b) Predictive Analytics: 'this' might happend
+ 
  c) Prescriptive Analytics: based on the data you should do 'this'
+ 
  d) Cognitive Analytics: computer automatically did 'this' without human intervention
 
-Python is a 'high-level' 4th generation computer language. Simply put it is easier to learn than other programming languages since the code used is broadly similar to writing making it easier to read and understand. 
+Python is a 'high-level' 4th generation computer language. Simply put it is easier to learn than other programming languages since the code used is broadly similar to writing, making it easier to read and understand. 
 
-The name Python was inspired by the British surreal comedy group 'Monty Python' and it's nice to imagine the "Knights that say Ni!" planting Fisher's Iris's in their scubbery. 
+The name Python was inspired by the British surreal comedy group 'Monty Python' and it's nice to imagine the "Knights that say Ni!" planting Iris's in their scubbery. 
 
-2. Summary of findings
+2. Summary of investigations
+Although simple mathematical operations can be written directly in Python I learned through this project the Seaborn, Numpy, SciPy and Pandas libraries contain modules, mini-scripts, that allow users to quickly perform mathematical operations, create summary tables and charts. Some of these libraries are interdependent, typically they are accessed by installing a Python package such as Anaconda, then called using the 'import' command. A Google search for the Iris dataset returns numerous examples, typically from StackOverFlow and GitHub. 
+
+
+
 
 
 
