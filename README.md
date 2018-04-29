@@ -1,4 +1,3 @@
-
 # GMIT Progamming and Scripting project submission by Simon McLain. April 29, 2018. 
 ## This project entails researching the Fisher's Iris dataset, then writing documentation and code in the Python programming language based on the research. 
 
@@ -12,7 +11,7 @@ Table of Contents
 4. How to run the script
 5. References
 
-The file Projectsubmission.py contains the Python code I developed during this project. 
+The file ProjectSubmission.py contains the Python code I developed during this project. 
 
 ####
 1. Introduction to Fisher, his Iris dataset, Data Analytics and Python 
