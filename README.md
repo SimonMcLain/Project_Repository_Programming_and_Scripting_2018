@@ -1,3 +1,4 @@
+
 # GMIT Progamming and Scripting project submission by Simon McLain. April 29, 2018. 
 ## This project entails researching the Fisher's Iris dataset, then writing documentation and code in the Python programming language based on the research. 
 
@@ -36,13 +37,28 @@ Python is a 'high-level' 4th generation computer language. Simply put it is easi
 The name Python was inspired by the British surreal comedy group 'Monty Python' and it's nice to imagine the "Knights that say Ni!" planting Iris's in their scubbery. 
 
 2. Summary of investigations
-Although simple mathematical operations can be written directly in Python I learned through this project the Seaborn, Numpy, SciPy and Pandas libraries contain modules, mini-scripts, that allow users to quickly perform mathematical operations, create summary tables and charts. Some of these libraries are interdependent, typically they are accessed by installing a Python package such as Anaconda, then called using the 'import' command. A Google search for the Iris dataset returns numerous examples, typically from StackOverFlow and GitHub. 
 
+Although simple mathematical operations can be written directly in Python I learned through this project the Seaborn, Numpy, SciPy and Pandas libraries contain modules, mini-scripts, that allow users to quickly perform mathematical operations including more advanced features such as creating summary tables and charts. Some of these libraries are interdependent, typically they are accessed by installing a Python package such as Anaconda, then called using the 'import' command. A Google search for the Iris dataset returns numerous examples of the application of these libraries. Content on StackOverFlow and GitHub is particularly useful. 
 
+I discovered three useful commands for describing data in a csv file which is useful for obtaining a general overview of the content of a such file. Especially useful for large files when the extent of the content is not known. 
 
+The .shape command describes the array, 150 datapoints distributed across five features; Sepal + Petal lengths and widths as wells as type of Iris. 
 
+The .describe command performs a basic statistical analysis of mean, standard deviation, min/ max and distribution. 
 
+Finally the .groupby('class').size() command returns the measurements by each type of Iris. 
 
+The most interesting graphical representation of the data I discovered was contained in a script in a GitHub repository created ritvikraj14. See Figure 1.3 in the charts folder of my repository. This coloured scatterplot clearly differentiates between the three varieties of Iris as demonstrated in the group of blue, orange and green dots. This graphical representation demonstrates what is mean by a multivariant analysis: taking a number of measurements and using them to descriminate unique features. In this case dimensions of sepal and petals descriminating between types of Iris. 
+
+Using this descriptive analytics data and writing a further script, and without any knowledge of flower taxonomy one could go to the Knights' scrubbery, collect several of their Iris flowers and use the model from this data to predict which of the three Iris types they are most likely to be. 
+
+Three further charts can be created using my Python script. Although these do describe each measurement they provided little insight for descriminating between the three types of Iris. 
+
+Fig 1. displays a histogram showing the distribution of each of the four Iris flower measurements
+
+Fig 1.1. displays a boxplot, a graphical representation of the mean and distribution from the mean for each measurement 
+
+Fig 1.2. Displays a scatterplot, where two measurements can be plotted against each other
 
 3. Project management
 
