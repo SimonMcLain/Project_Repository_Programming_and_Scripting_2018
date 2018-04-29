@@ -43,7 +43,7 @@ Although simple mathematical operations can be written directly in Python I lear
 
 I discovered three useful commands for describing data in a csv file which is useful for obtaining a general overview of the content of a such file. Especially useful for large files when the extent of the content is not known. 
 
-dThe .shape command describes the array, 150 datapoints distributed across five features; Sepal + Petal lengths and widths as wells as type of Iris. 
+The .shape command describes the array, 150 datapoints distributed across five features; Sepal + Petal lengths and widths as wells as type of Iris. 
 
 The .describe command performs a basic statistical analysis of mean, standard deviation, min/ max and distribution. 
 
