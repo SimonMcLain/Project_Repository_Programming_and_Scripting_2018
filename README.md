@@ -12,6 +12,8 @@ Table of Contents
 4. How to run the script
 5. References
 
+The file Projectsubmission.py contains the Python code I developed during this project. 
+
 ####
 1. Introduction to Fisher, his Iris dataset, Data Analytics and Python 
 
